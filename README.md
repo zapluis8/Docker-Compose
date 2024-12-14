@@ -5,5 +5,5 @@ Este proyecto implementa un sistema de gestión de personajes para videojuegos c
 ## Cómo usar?
 1. Asegúrate de tener Docker y Docker Compose instalados.
 2. Clona este repositorio.
-3. Ejecuta `docker-compose up`.
-4. Accede al frontend en `http://localhost:3000`.
+3. Ejecuta docker-compose up.
+4. Accede al frontend en http://localhost:3000.
